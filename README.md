@@ -151,6 +151,12 @@ install.packages(shiny_pkgs)
 nyt_run_example("nyt_india_app")
 ```
 
+
+
+API Key 
+https://developer.nytimes.com/get-started
+
+
 ## Analysis
 
 You can find package vignettes [analyzing the
